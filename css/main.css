@@ -43,34 +43,10 @@ main {
     witdh:100%;
 }
 
-.mian.nav-left {
-    float: left;
-}
 
-.nav-left li{
-    width: 33%;
-    display: block;
-    border: 2px solid #fff;
-    background: rgb(0, 153, 255);
-    
-}
-
-.nav-left li a {
-    margin:5px;
-    color: #000;
-    font-weight: bold;
-    font-size: 25px;
-    }
-
-.nav-left li a:hover{
-    color: #fff;
-}
 
 .main .main-right {
-    margin-top:-288px;
-    float: right;
     border: 2px solid #fff;
-    width: 63%;
     height: 1000px;
     background: #fff;
 }
