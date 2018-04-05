@@ -3,6 +3,7 @@ body {
 }
 nav{
    margin:20px 16px;
+   border-bottom: 2px solid #fff;
 }
 
 .logo {
@@ -49,4 +50,16 @@ main {
     border: 2px solid #fff;
     height: 1000px;
     background: #fff;
+}
+
+.nav-tabs {
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+}
+
+.row a {
+    font-weight: bold;
+    font-size:16px;
+    color:red;
 }
