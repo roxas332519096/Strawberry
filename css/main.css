@@ -2,8 +2,7 @@ body {
     background-color: rgb(197, 86, 86);
 }
 nav{
-    border: 1px solid #000;
-    margin:20px 16px;
+   margin:20px 16px;
 }
 
 .logo {
@@ -40,7 +39,7 @@ main {
 
 .banner {
     background: gold;
-    height: 400px;
+    height: 200px;
     witdh:100%;
 }
 
@@ -49,7 +48,7 @@ main {
 }
 
 .nav-left li{
-    width: 15%;
+    width: 33%;
     display: block;
     border: 2px solid #fff;
     background: rgb(0, 153, 255);
@@ -60,7 +59,7 @@ main {
     margin:5px;
     color: #000;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 25px;
     }
 
 .nav-left li a:hover{
@@ -68,10 +67,10 @@ main {
 }
 
 .main .main-right {
-    margin-top:-395px;
+    margin-top:-288px;
     float: right;
     border: 2px solid #fff;
-    width: 83%;
-    height: 2000px;
+    width: 63%;
+    height: 1000px;
     background: #fff;
 }
