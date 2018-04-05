@@ -1,23 +1,39 @@
 body {
-    background-color: rgb(197, 86, 86);
+    background-color: #FF6A6A;
 }
 nav{
    margin:20px 16px;
    border-bottom: 2px solid #fff;
 }
 
-.logo {
+.logo-en {
     float: left;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: bold;
+    font-family:'ChannelSlanted2';
+    height: 50px;
+    line-height: 50px;
+}
+
+.logo-cn {
+    float: left;
+    margin-left: 40px; 
+    font-size: 50px;
+    font-weight: bold;
+    font-family:'ChannelSlanted2';
+    padding-bottom: 10px;
+    font-family:'NaiYou113b56b3941c67e';
+    height: 50px;
+    line-height: 50px;
+    color: rgb(255, 240, 245);
 }
 
 .straw {
-    color: #fff;
+    color:rgb(255, 245, 238);
 }
 
 .berry {
-    color: #000;
+    color: rgb(255, 240, 245);
 }
 
 .username {
@@ -40,8 +56,11 @@ main {
 
 .banner {
     background: gold;
-    height: 200px;
     witdh:100%;
+}
+
+.banner img {
+    width: 100%;
 }
 
 
